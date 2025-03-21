@@ -1,2 +1,2 @@
 # CCNA
-CCNA Project
+CCNA Network Configuration and Study Materials
